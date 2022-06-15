@@ -19,6 +19,7 @@ const option = {
       type: 'line',
       smooth: true,
       tooltip: {},
+      showSymbol: false,
       emphasis: {
           textStyle: {
               shadowBlur: 10,
